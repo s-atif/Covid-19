@@ -1,38 +1,51 @@
-🦠 COVID-19 Real-Time Dashboard
+# 🦠 COVID-19 Real-Time Dashboard
 
-A Power BI project for real-time monitoring and visualization of the global COVID-19 pandemic.
-🔗 Live Dashboard
+---
 
-📊 Project Overview
+## 📊 Project Overview
 
-This Power BI dashboard analyzes the real-time impact of the COVID-19 pandemic across countries and continents. It uses live data scraped from Worldometers
- and visualizes it through interactive charts and maps.
+This **Power BI dashboard** analyzes the real-time impact of the COVID-19 pandemic across countries and continents.  
+It uses **live data scraped from [Worldometers](https://www.worldometers.info/coronavirus/)** and visualizes it through interactive charts and maps.
 
-Key Features:
+---
 
-🌍 Global analysis across 217 countries
+## ✅ Key Features
 
-📈 Real-time updates with web data source
+- 🌍 Global analysis across **217 countries**
+- 📈 Real-time updates with **web data source**
+- 📊 Visuals:
+  - Donut Chart  
+  - Clustered Column Chart  
+  - Filled Maps  
+  - Card Visuals  
+  - Slicers
+- 🚦 Risk to population: **High, Medium, Low**
+- ♻️ Recovery patterns by geography: **Strong vs. Weak**
+- 📉 KPIs Tracked:
+  - Total Cases
+  - Active Cases
+  - Total Recovered
+  - Total Deaths
+  - Critical Cases
+  - Tests per Million
 
-📊 Visuals: Donut Chart, Clustered Column Chart, Filled Maps, Cards, Slicers
+---
 
-🚦 Risk to population: High, Medium, Low
+## 🔧 Tools & Technologies Used
 
-♻️ Recovery patterns by geography: Strong vs. Weak
+- **Power BI Desktop**
+- **Web Data Source** (live web scraping from Worldometers)
+- **Power Query Editor**
+- **DAX Measures**
+- **Microsoft Bing Maps** (for geographic visuals)
 
-📉 KPIs: Total Cases, Active Cases, Recovered, Deaths, Critical Cases, Tests per Million
+---
 
-🔧 Tools & Technologies
+## 📌 Data Source
 
-Power BI Desktop
+- 🌐 [https://www.worldometers.info/coronavirus/](https://www.worldometers.info/coronavirus/)
 
-Web Data Source (Live web scraping from worldometers)
-
-DAX Measures
-
-Power Query Editor
-
-Microsoft Bing Maps (for Filled Maps)
+---
 
 📷 Dashboard Screenshots
 
