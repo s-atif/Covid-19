@@ -35,17 +35,33 @@ Power Query Editor
 Microsoft Bing Maps (for Filled Maps)
 
 📷 Dashboard Screenshots
+
 🧷 Main Dashboard
+
 <img width="786" height="431" alt="Main_page" src="https://github.com/user-attachments/assets/19010368-b9fc-4187-ba6f-452de530febe" />
 
 
 📌 Country-Wise COVID Analysis
 
+<img width="366" height="183" alt="country" src="https://github.com/user-attachments/assets/5cc7b84e-feda-42cb-a7d5-16d17c08d6e9" />
+
+
 🍩 Donut Chart Breakdown
+
+<img width="364" height="167" alt="donut" src="https://github.com/user-attachments/assets/ed4441df-21f7-44c5-b486-ee6d5e9c2b6b" />
+
+
 
 🗺️ Recovery Analysis Map
 
+<img width="318" height="171" alt="Recovery_filledmap" src="https://github.com/user-attachments/assets/2438c7f2-efba-44b3-9725-1b9f183648d4" />
+
+
+
 🗺️ Risk to Population Map
+
+<img width="316" height="183" alt="Risk_filledmap" src="https://github.com/user-attachments/assets/3f9f24c3-b6fc-41b0-aac0-4e018635a0d3" />
+
 
 📈 KPIs Tracked
 
